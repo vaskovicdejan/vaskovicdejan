@@ -11,10 +11,10 @@
 
 <h3 align="center">Welcome to my Profile!</h3>
 <p align="center">
-  As a dedicated Full Stack Engineer, I bring a wealth of expertise in both frontend and backend development to the table. <br>
-  With a solid foundation in Python and a keen eye for detail, I thrive on crafting innovative solutions that seamlessly integrate user interfaces with robust server-side logic.<br>
-  My passion for development is unwavering and drives me to continually pursue new technologies to push boundaries and improve my skills. <br>
-  Committed to delivering excellence, I approach every project with enthusiasm and a relentless pursuit of perfection.
+  As a Senior Full Stack Engineer, I bring a wealth of expertise in both Frontend and Backend Development.<br>
+  With a solid foundation in Python and a keen eye for detail, I focus on creating innovative solutions that seamlessly integrate powerful server-side logic with user interfaces.<br>
+  My passion for development is unwavering and drives me to continually pursue new technologies to push boundaries. <br>
+  I am committed to delivering excellence and have passion and relentless pursuit of perfection in every project.
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
