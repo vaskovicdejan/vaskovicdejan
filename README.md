@@ -105,3 +105,18 @@
 <br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Trophy:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaskovicdejan&column=8&theme=onedark"/>
+</p>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vaskovicdejan&langs_count=10&layout=compact&theme=tokyonight&include_all_commits=true&line_height=30">
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
